@@ -57,9 +57,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurpreetsingh-5&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurpreetsingh-5&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
 ---
 ### 🔥 GitHub Contribution Streak
@@ -69,15 +69,15 @@
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=gurpreetsingh-5&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
 
-### 👨‍💼 About Me & 🤝 Open to Collaborations
+<!-- ### 👨‍💼 About Me & 🤝 Open to Collaborations
 
 🎤 Available for **Guest Sessions / Webinars**  
 🤝 Open to **Project Collaborations / YouTube Collabs**  
 💼 Offering **DevOps Consulting / Mentorship**  
-📧 Let’s chat: [office@devopsshack.com](mailto:office@devopsshack.com)
+📧 Let’s chat: [office@devopsshack.com](mailto:office@devopsshack.com) -->
 
-> *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
+<!-- > *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"* -->
