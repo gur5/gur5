@@ -43,7 +43,6 @@
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" tital="bash" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/> 
   <!-- <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="40" height="40"/> -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git-scm" tital="git-scm" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" tital="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" tital="CSS" width="40" height="40" />
   <img src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png" width="40" height="40" />
@@ -133,7 +132,8 @@
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="trello" width="40" height="40"/>
 </p>
-
+<br>
+</br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurpreetsingh-5&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurpreetsingh-5&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
