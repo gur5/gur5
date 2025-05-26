@@ -141,7 +141,7 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurpreetsingh-5&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurpreetsingh-5&show_icons=true&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gur5&show_icons=true&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
  <!-- &cache_seconds=1800 -->
 
 ---
