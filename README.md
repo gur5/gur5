@@ -4,12 +4,12 @@
 
 
 <p align="center">
-  <a href="https://github.com/gurpreetsingh-5">
+  <a href="https://github.com/gur5">
     <img src="https://img.shields.io/github/followers/gurpreetsingh-5?label=Follow&style=social" />
   </a>
 
  
-  <a href="https://linkedin.com/in/gurpreetsingh005">
+  <a href="https://linkedin.com/in/gur5">
     <img src="https://img.shields.io/badge/LinkedIn-Gurpreet%20Singh-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
