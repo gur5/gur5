@@ -3,8 +3,8 @@
 
 
 
-<!-- <p align="center">
-  <a href="https://github.com/gur5">
+<p align="center">
+<!--  <a href="https://github.com/gur5">
     <img src="https://img.shields.io/github/followers/gur5?label=Follow&style=social" />
   </a> -->
 
