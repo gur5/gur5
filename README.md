@@ -46,7 +46,8 @@
   <!-- <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="40" height="40"/> -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" tital="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" tital="CSS3" width="40" height="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png" width="40" height="40" />
+  <!--<img src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png" width="40" height="40" />-->
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="java" tital="java" width="40" height="40" />
 
 
   <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
@@ -112,7 +113,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" tital="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-icon.svg" alt="harbor" title="harbor" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="harbor" title="harbor" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" title="helm" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="istio" title="istio" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="traefik" title="traefik" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" alt="nginx" title="nginx" width="40" height="40"/>  
