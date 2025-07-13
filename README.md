@@ -117,8 +117,9 @@
   <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="istio" title="istio" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="traefik" title="traefik" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" alt="nginx" title="nginx" width="40" height="40"/>  
+  
   <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg/" alt="apache" title="apache" width="40" hight="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg/" alt="apache" title="apache" width="40" hight="40"/>
+  <!--<img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg/" alt="apache" title="apache" width="40" hight="40"/> -->
 
   <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="logstash" title="logstash" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" title="kibana" width="40" height="40"/> 
