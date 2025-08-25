@@ -130,7 +130,7 @@
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="promethues" title="promethues" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/graphiteapp/graphiteapp-icon.svg" alt="graphite" title="graphite" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="grafana" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="grafana" title="grafana" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="datadog" title="datadog" width="40" height="40"/> 
 
 <!--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" tital="nginx" width="40" height="40"/> -->
 
