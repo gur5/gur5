@@ -118,7 +118,9 @@
   <img src="https://www.vectorlogo.zone/logos/atlassian_bamboo/atlassian_bamboo-icon.svg" alt="bamboo" title="bamboo" width="40" height="40"/> --> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" tital="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-icon.svg" alt="harbor" title="harbor" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/>
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/aws-eks.svg" alt="aws-eks" title="aws-eks" width="40" height="40"/>  
+
   <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" title="helm" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="istio" title="istio" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="traefik" title="traefik" width="40" height="40"/> 
